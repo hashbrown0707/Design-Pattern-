@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0422A3B0-41F7-4BEF-BF2F-342F5A92444E}</ProjectGuid>
+    <ProjectGuid>{2230A47D-F949-4CB0-B843-AD3EBDDA2BEB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Observer</RootNamespace>
-    <AssemblyName>Observer</AssemblyName>
+    <RootNamespace>Decorate</RootNamespace>
+    <AssemblyName>Decorate</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConcreteObservable.cs" />
-    <Compile Include="ConcreteObserver.cs" />
-    <Compile Include="ConcreteObserver2.cs" />
-    <Compile Include="IObserver.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Script\Dagger.cs" />
+    <Compile Include="Script\Decorator.cs" />
+    <Compile Include="Script\FireWeapon.cs" />
+    <Compile Include="Script\IceWeapon.cs" />
+    <Compile Include="Script\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Script\Shield.cs" />
+    <Compile Include="Script\Sword.cs" />
+    <Compile Include="Script\Weapon.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
