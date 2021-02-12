@@ -2,7 +2,7 @@
 
 namespace Singleton.Script
 {
-    class GernericSingleton<T> // where T : MonoBehavior
+    class GernericSingleton<T> where T : MonoBehavior
     {
         private static GernericSingleton<T> _instance;
         private static object _lock = new object();
