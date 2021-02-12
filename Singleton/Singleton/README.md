@@ -21,4 +21,4 @@ Singleton Pattern
 
 ### Singleton Use Gerneric
 
-用Unity的寫法寫的, 概念跟ThreadSafe DoubleCheck差不多, 但是適從Hireachy抓帶有Singleton的類別物件
+用Unity的寫法寫的, 概念跟ThreadSafe DoubleCheck差不多, 但是適從Hirearchy抓帶有Singleton的類別物件
