@@ -3,6 +3,8 @@ Singleton Pattern
 
 放了5種Singleton, 最後一種則是Unity的ThreadSafe寫法
 
+Singleton Pattern的UML : ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Singleton_UML_class_diagram.svg/1200px-Singleton_UML_class_diagram.svg.png)
+
 ### NonThreadSafe
 
 最基本的Singleton概念, 就是用static和封裝把Class設定成最多只能有一個個體存在
