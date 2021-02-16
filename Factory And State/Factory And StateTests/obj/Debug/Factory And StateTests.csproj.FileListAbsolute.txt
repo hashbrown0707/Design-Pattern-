@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\Factory And StateTests.dll
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\Factory And StateTests.pdb
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\Factory And State.exe
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\Factory And State.pdb
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\Factory And State.exe.config
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\obj\Debug\Factory And StateTests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\obj\Debug\Factory And StateTests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\obj\Debug\Factory And StateTests.csproj.CopyComplete
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\obj\Debug\Factory And StateTests.dll
+C:\Users\User\source\repos\Github\Design Pattern\Factory And State\Factory And StateTests\obj\Debug\Factory And StateTests.pdb
