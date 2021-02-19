@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Github\Design Pattern\Object Pool\Object Pool\bin\Debug\Object Pool.exe.config
+C:\Users\User\source\repos\Github\Design Pattern\Object Pool\Object Pool\bin\Debug\Object Pool.exe
+C:\Users\User\source\repos\Github\Design Pattern\Object Pool\Object Pool\bin\Debug\Object Pool.pdb
+C:\Users\User\source\repos\Github\Design Pattern\Object Pool\Object Pool\obj\Debug\Object Pool.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Github\Design Pattern\Object Pool\Object Pool\obj\Debug\Object Pool.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Github\Design Pattern\Object Pool\Object Pool\obj\Debug\Object Pool.exe
+C:\Users\User\source\repos\Github\Design Pattern\Object Pool\Object Pool\obj\Debug\Object Pool.pdb

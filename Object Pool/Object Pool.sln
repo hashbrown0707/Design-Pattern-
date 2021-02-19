@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object Pool", "Object Pool\Object Pool.csproj", "{C40A6372-B78C-4289-8310-C448ECDA3B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object PoolTests", "Object PoolTests\Object PoolTests.csproj", "{447677A0-E6DD-4834-B0AD-8D7D11591BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C40A6372-B78C-4289-8310-C448ECDA3B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40A6372-B78C-4289-8310-C448ECDA3B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40A6372-B78C-4289-8310-C448ECDA3B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40A6372-B78C-4289-8310-C448ECDA3B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447677A0-E6DD-4834-B0AD-8D7D11591BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447677A0-E6DD-4834-B0AD-8D7D11591BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447677A0-E6DD-4834-B0AD-8D7D11591BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447677A0-E6DD-4834-B0AD-8D7D11591BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DBB5C7E-9F24-4C87-81BD-519D6A6AF427}
+	EndGlobalSection
+EndGlobal
