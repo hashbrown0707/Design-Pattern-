@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Github\Design Pattern\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\User\source\repos\Github\Design Pattern\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\User\source\repos\Github\Design Pattern\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\User\source\repos\Github\Design Pattern\Prototype\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Github\Design Pattern\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Github\Design Pattern\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Users\User\source\repos\Github\Design Pattern\Prototype\Prototype\obj\Debug\Prototype.pdb
