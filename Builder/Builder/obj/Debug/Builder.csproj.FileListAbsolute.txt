@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Github\Design Pattern\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\User\source\repos\Github\Design Pattern\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\User\source\repos\Github\Design Pattern\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\User\source\repos\Github\Design Pattern\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Github\Design Pattern\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Github\Design Pattern\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\User\source\repos\Github\Design Pattern\Builder\Builder\obj\Debug\Builder.pdb
