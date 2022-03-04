@@ -3,7 +3,7 @@ Factory Pattern and State Pattern
 
 這次直接把這2個模式寫在一起當成一個小練習
 
-也順便學啥是Unit Test (其實我寫的模式好像都是變體w
+也順便學啥是Unit Test (其實寫的模式好像都是變體
 
 主要是用工廠模式製造出了各種Product的State
 
